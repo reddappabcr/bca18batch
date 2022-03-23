@@ -1,0 +1,23 @@
+2021-05-15 12:55:05 INFO  welcome to script:14 - open browser
+2021-05-15 12:55:17 INFO  welcome to script:16 - open actitime page
+2021-05-15 12:55:17 INFO  welcome to script:18 - admin enterd
+2021-05-15 12:55:19 INFO  welcome to script:20 - manager enterd
+2021-05-15 12:55:19 INFO  welcome to script:22 - login pressed
+2021-05-15 12:55:26 INFO  welcome to script:25 - logout pressed
+2021-05-15 12:57:54 INFO  welcome to script:14 - open browser
+2021-05-15 12:58:04 INFO  welcome to script:16 - open actitime page
+2021-05-15 12:58:04 INFO  welcome to script:18 - admin enterd
+2021-05-15 12:58:07 INFO  welcome to script:20 - manager enterd
+2021-05-15 12:58:07 INFO  welcome to script:22 - login pressed
+2021-05-15 12:58:26 INFO  welcome to script:25 - logout pressed
+2021-05-15 13:00:16 INFO  login page:14 - open browser
+2021-05-15 13:00:28 INFO  login page:16 - open actitime page
+2021-05-15 13:00:28 INFO  login page:18 - admin enterd
+2021-05-15 13:00:28 INFO  login page:20 - manager enterd
+2021-05-15 13:00:28 INFO  login page:22 - login pressed
+2021-05-15 13:01:42 INFO  customer pagee:14 - open browser
+2021-05-15 13:01:54 INFO  customer pagee:16 - open actitime page
+2021-05-15 13:01:54 INFO  customer pagee:18 - admin enterd
+2021-05-15 13:01:54 INFO  customer pagee:20 - manager enterd
+2021-05-15 13:01:54 INFO  customer pagee:22 - login pressed
+2021-05-15 13:02:02 INFO  customer pagee:25 - logout pressed
